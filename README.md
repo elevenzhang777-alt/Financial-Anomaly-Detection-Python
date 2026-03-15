@@ -1,6 +1,6 @@
 # Financial-Anomaly-Detection & Automated Reconciliation
 # 财务异常检测与自动化对账系统
-## Project Overview
+## Project Overview(项目概述）
 This project is designed to solve the efficiency and accuracy challenges in traditional corporate accounting. By leveraging Python and Machine Learning, it automates the reconciliation process between MYOB/Xero exports and Bank statements, identifying risks that are pften missed by human eyes.
 
 ## key Features(核心功能）
